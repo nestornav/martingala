@@ -14,7 +14,8 @@ a un techo en la apuesta, por ende núnca recuperar lo apostado.
 
 ## Sistema de Juego
 
-* El jugador puede apostar a color (rojo, negro), o nones (par o impar).
+* El jugador puede apostar a color (rojo, negro), o nones (par o impar), pero siempre a lo mismo.
+* El jugador inicia con la apuesta minima
 * Si incurre en pérdida, siempre dobla la apuesta.
 * Si sale 0 (cero) el jugador pierde, ya que este valor no pertenece a ningún color, y a ningún none.
 * La casa de juego tiene definida una apuesta máxima.
